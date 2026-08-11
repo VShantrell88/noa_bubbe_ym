@@ -1,21 +1,20 @@
-# Noa and Bubbe's Yom Kippur website
+# Noa & Bubbe multi-page website
 
-This is a responsive, single-page static website.
+This is a flat-file GitHub Pages site. There is no assets folder.
 
-## Files
-- `index.html`
-- `styles.css`
-- `script.js`
-- `assets/`
+Upload every file in this folder to the root of your GitHub repository.
 
-## Before publishing
-1. Replace the placeholder purchase link in `index.html`.
-2. Replace `YOUR-EMAIL@example.com`.
-3. Replace the placeholder author biography.
-4. Add final ISBN, publisher, retailer, press, and event information as needed.
+Pages:
+- index.html
+- books.html
+- rosh-hashanah.html
+- yom-kippur.html
+- activity-book.html
+- families-educators.html
+- about.html
 
-## Preview
-Open `index.html` in a browser.
+Shared:
+- styles.css
+- script.js
 
-## Publishing options
-The folder can be uploaded to Netlify, Vercel, GitHub Pages, Squarespace (via code block/custom site), or a conventional web host.
+The image files also remain in the repository root.
